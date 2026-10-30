@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sukeyuki",
  "yomi": "すけゆきしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（10世紀）",
+  "author": "藤原相如（?〜995）",
+  "desc": "藤原相如の家集。出雲守・蔵人などをつとめたころの贈答の歌を中心に収める小さな集。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -775,6 +780,6 @@
   "poems": 65,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
